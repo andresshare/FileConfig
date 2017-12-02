@@ -1,0 +1,42 @@
+{
+
+    "workbench.colorTheme": "Panda Syntax",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "editor.formatOnType": true,
+    "editor.autoIndent": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules": false,
+        ".vscode":true
+    },
+    "editor.letterSpacing": 2,
+    "editor.mouseWheelZoom": true,
+    
+    "git.enableSmartCommit": true,
+    "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.shellArgs.linux": [
+        "-l"
+    ],
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "plaintext": "jade"
+    },
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true
+}
+    
+        
